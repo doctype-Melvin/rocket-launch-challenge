@@ -1,3 +1,7 @@
+## Screenshot
+
+![screenshot](./Screenshot%202023-03-28%20at%2014.19.47.png)
+
 # 🚀 SpaceRocket™️ Launch
 
 Follow the instructions in the [`index.html`](./index.html) file to launch the rocket.
